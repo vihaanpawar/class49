@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color:blanchedalmond;
+}
+
+img{
+    width: 500px;
+    border: 3px solid orange;
+    border-radius: 20px;
+    padding: 10px;
+    margin:30px;
+   
+}
+
+p{
+    color:blueviolet;
+}
